@@ -1,0 +1,8 @@
+Created by somjit on 14-05-2021
+
+This is a concept or reading an input file
+
+# Read a file <ipfile>
+* Read contents of file <ipfile> into memory
+* Count the number of words in the file
+* Display the count

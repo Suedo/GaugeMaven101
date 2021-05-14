@@ -1,0 +1,12 @@
+Created by somjit on 14-05-2021
+
+This is a concept file. The concept "Primality check of numbers" will call a nested concept 
+and pass a table to it. The nested concept will understand that the argument is a table,
+and run it's spec for each row of the table
+
+# Primality check of numbers
+* Find prime numbers in this table <table:./data/primecheck.csv>
+
+
+# Find prime numbers in this table <data>
+* Check numbers in this table <data>
